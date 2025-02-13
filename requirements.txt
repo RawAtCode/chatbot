@@ -1,12 +1,12 @@
 streamlit
 langchain
 langchain_community
+langchain_google_genai
 faiss-cpu
 openai
 google-generativeai
 tiktoken
 pymupdf
-PyPDF2
 pypdf
 numpy
 pandas
