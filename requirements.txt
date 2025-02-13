@@ -6,6 +6,7 @@ openai
 google-generativeai
 tiktoken
 pymupdf
+PyPDF2
 pypdf
 numpy
 pandas
