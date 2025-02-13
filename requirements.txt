@@ -8,5 +8,6 @@ google-generativeai
 tiktoken
 pymupdf
 pypdf
+pypdf2
 numpy
 pandas
